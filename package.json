@@ -7,6 +7,7 @@
     "private": true,
     "dependencies": {
         "core-js": "^3.2.1",
+        "@jeltemx/mendix-react-widget-utils": "^0.9.0",
         "jquery": "~3.5.1"
     },
     "devDependencies": {
